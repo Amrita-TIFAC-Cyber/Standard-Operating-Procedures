@@ -5,6 +5,7 @@
 # Standard Operating Procedures ![](https://img.shields.io/badge/-Live-darkgreen) 
 
 ## Academic 
+
 |       Description 	|   	            SOP Status  	    |                         Creator/Maintainer                       |           Link  		  | 
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
 |  [Attendance Policy](attendance)    |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan & Ms. Avadhani Bindu   | [Link](attendance)       | 
@@ -13,6 +14,7 @@
 |  [Placements](placements)             | ![](https://img.shields.io/badge/-In_Progress-orange)   | Dr. Jevitha K P                                |  [Link](placements)      |
 
 ## Student Chapters
+
 |       Description 	|   	            SOP Status  	    |                         Creator/Maintainer                       |           Link  		  | 
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
 |  [WiCys Amrita Student Chapter](sc/wicys)  | ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan             |  [Link](sc/wicys)            |
@@ -42,6 +44,7 @@
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
 |  [Website Update](website)   |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](website)         |
 |  [Social Media](social_media)  |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](social_media)    |
+
 
 
 
