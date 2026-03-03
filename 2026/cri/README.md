@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/.github/blob/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
+    <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/.github/refs/heads/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
 # Standard Operating Procedures
@@ -158,3 +158,4 @@ given batch.
 | Deepa         | 10   | 0    | 0          | 0            | **2.5** |
 | Arul          | 4    | 4.2  | 0          | 0            | **2.6** |
 | Rosh          | 7    | 0    | 0.8        | 8            | **4**   |
+
