@@ -12,15 +12,15 @@
 |  [Class Advisors](class_advisor)        |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](class_advisor)   |
 |  [Placements](placements)             | ![](https://img.shields.io/badge/-In_Progress-orange)   | Dr. Jevitha K P                                |  [Link](placements)      |
 
-
 ## Student Chapters
 |       Description 	|   	            SOP Status  	    |                         Creator/Maintainer                       |           Link  		  | 
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
-|  [Student Chapter - WiCys Amrita Student Chapter](sc/wicys)  | Active | Mr. Ramaguru Radhakrishnan             |  [Link](sc/wicys)            |
-|  [Student Chapter - B-RIG](sc/brig)  | ![](https://img.shields.io/badge/-Active-darkgreen)  | Mr. Ramaguru Radhakrishnan                     |  [Link](sc/brig)         |
-|  [Student Chapter - CybeReach](sc/cybereach)  | ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan                  |  [Link](sc/cybereach)    |
-|  [Student Chapter - KBAIC](sc/kbaic) | ![](https://img.shields.io/badge/-Active-darkgreen)  | Mr. Ramaguru Radhakrishnan                     |  [Link](sc/kbaic)        |
-
+|  [WiCys Amrita Student Chapter](sc/wicys)  | ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan             |  [Link](sc/wicys)            |
+|  [B-RIG](sc/brig)  | ![](https://img.shields.io/badge/-Active-darkgreen)  | Mr. Ramaguru Radhakrishnan                     |  [Link](sc/brig)         |
+|  [CybeReach](sc/cybereach)  | ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan                  |  [Link](sc/cybereach)    |
+|  [KBAIC](sc/kbaic) | ![](https://img.shields.io/badge/-Active-darkgreen)  | Mr. Ramaguru Radhakrishnan                     |  [Link](sc/kbaic)        |
+|  [CTF](sc/ctf) | ![](https://img.shields.io/badge/-In_Progress-orange)   | Mr. Anand R Nair                     |  [Link](sc/ctf)        |
+|  [VAPT Club](sc/vapt) | ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Akhil K J                    |  [Link](sc/vapt)        |
 
 ## Extra- and Co-Curricular
 
@@ -29,20 +29,20 @@
 |  [Hackathon Policy](hackathon)      |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan & Dr. Rohini M      |     [Link](hackathon)    |
 |  [CTF Policy](ctf)             |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Anand R Nair                               |     [Link](ctf)          |            
 
-
 ## Internships and Fellowships
            
 |       Description 	|   	            SOP Status  	    |                         Creator/Maintainer                       |           Link  		  | 
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
-|  [Secure Internship](secure)    |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](secure)          |
+|  [Secure Internship](secure)    |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan  & Dr. Aravind Vishnu |  [Link](secure)          |
 |  [Agni Fellowship](agni)       |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Dr. Aravind Vishnu                             |  [Link](agni)            |
 
 ## Administrative
 
 |       Description 	|   	            SOP Status  	    |                         Creator/Maintainer                       |           Link  		  | 
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
-|  [Website Update](website)         |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](website)         |
-|  [Social Media](social_media)          |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](social_media)    |
+|  [Website Update](website)   |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](website)         |
+|  [Social Media](social_media)  |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan                     |  [Link](social_media)    |
+
 
 
 
