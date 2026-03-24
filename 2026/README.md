@@ -29,7 +29,7 @@
 |       Description 	|   	            SOP Status  	    |                         Creator/Maintainer                       |           Link  		  | 
 |:----------------------|:-------------------------------------:|:-----------------------------------------------------------------|:------------------------:|
 |  [ICPC Policy](icpc)  |   ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan & Dr. Rohini M      |     [Link](icpc)    |
-|  [Hackathon Policy](hackathon)      |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Ramaguru Radhakrishnan & Dr. Rohini M      |     [Link](hackathon)    |
+|  [Hackathon Policy](hackathon)      |  ![](https://img.shields.io/badge/-Active-darkgreen)  | Mr. Ramaguru Radhakrishnan & Dr. Rohini M      |     [Link](hackathon)    |
 |  [CTF Policy](ctf)             |  ![](https://img.shields.io/badge/-In_Progress-orange)  | Mr. Anand R Nair                               |     [Link](ctf)          |            
 
 ## Internships and Fellowships
