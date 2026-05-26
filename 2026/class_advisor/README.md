@@ -7,27 +7,25 @@
 ## 1. Role of Class Advisor
 The Class Advisor serves as the primary academic mentor and administrative coordinator for a batch of students. The advisor is responsible for monitoring academic progress, ensuring compliance with institutional policies, and facilitating communication between students, parents, faculty, and administration.
 
-## 2. First Year Class Advisors – Additional Responsibilities
+## 2. First Year Class Advisors – Additional Responsibilities (I B.Tech and I M.Tech)
 
-First-year students require structured onboarding and close monitoring. The Class Advisor shall:
+First-year students require structured onboarding and close monitoring. 
 
 ### 2.1 Student Onboarding & Coordination
-- Coordinate with **Deeksharambh / Swagatham Team** to obtain complete student details.
-- Ensure students have:
-  - Institutional Email ID
+- Coordinate with **Deeksharambh / Swagatham Team** to obtain student details.
+- Coordinate with Deeksharambh Team for Orientation Program at Department Level.
+- Ensure students have received credentials and access to:
+  - University Email ID
   - Amrita Univesity Management System (AUMS) 
   - Campus Management System (CMS)
-  - Access to MyAmrita Portal  
-- Follow up to ensure students receive:
-  - ID Cards (within the stipulated time)  
+  - MyAmrita Students Portal  
+- Follow up to support students receive:
+  - ID Cards
   - Uniforms  
 
 ### 2.2 Documentation & Verification
-- Identify students with **pending document submissions**.
-- Follow up with students as per instructions from:
-  - Admissions Team  
-  - Academic Office  
-- Ensure all required documents are submitted and verified.
+- Identify students with **pending document submissions** as per inputs received from Academic Coordination Team via Department Secretary.
+- Follow up with the students to submit pending required documents.
 
 ### 2.3 Student Data Collection
 - Collect and maintain:
@@ -38,26 +36,28 @@ First-year students require structured onboarding and close monitoring. The Clas
 ### 2.4 Parent & Student Communication
 - Inform students about:
   - University policies and regulations  
-  - MyAmrita Portal usage  
+  - MyAmrita Student Portal/App
 - Share and maintain:
-  - Emergency contact number for the class  
-- Facilitate initial parent communication if required.
+  - Emergency contact number for the class
+- Inform students about:
+    - MyAmrita Parents Portal/App
 
-### 2.5 Class Formation Activities
+### 2.5 Class Committee Formation
 - Conduct **Class Representative (CR) elections**.
 - Communicate CR details to:
   - Course instructors  
-  - Department/administration  
+  - Department/administration
+- Form a Class Committee with 5-6 students (combination of hostellers, day scholars)
 
-### 2.6 Academic Orientation
+### 2.6 Initial Academic Orientation
 After commencement of classes, brief students on:
 - Course structure and curriculum  
 - Continuous Assessment (CA) and Internal Evaluation  
-- End Semester Examination pattern  
-- Examination procedures and malpractice rules  
 - Attendance policy and minimum requirements  
 - Course prerequisites and expectations
+- Discplinary Rules and Mobile Phone Usage
 - Office of Student Affairs (Welfare) and their Privileges
+- Examination procedures and malpractice rules  
 
 ## 3. General Responsibilities (Applicable to All Years)
 
@@ -65,20 +65,18 @@ After commencement of classes, brief students on:
 - Facilitate **course registration** for students from **Semester 2 to Semester 8** at the beginning of each semester.
 - Coordinate with the **Department Academic Coordinator** regarding:
   - Regular course registration  
-  - Supplementary registration  
-  - Direct 100 registrations  
-  - Course re-registration (repeat courses)  
-- Ensure all students are:
+  - Supplementary registration*  
+  - Direct 100 registrations*  
+  - Course re-registration* (repeat courses)  
+- Ensure all students have:
   - Properly registered within deadlines  
   - Aware of eligibility and academic requirements  
 - Verify and maintain records of student registrations for audit purposes.
 
-### 3.2 Attendance Monitoring
-- Track and review student attendance regularly as per the Department and University Attendance Policy.
+* As per the guidelines provided by Controller of the Examination
+  
+### 3.2  Academic Monitoring
 - Identify students with low attendance and initiate corrective measures.
-- Ensure compliance with institutional attendance policies.
-
-### 3.3 Academic Monitoring
 - Maintain a **Class Advisor Notebook / Digital Record**.
 - Record:
   - Attendance  
@@ -93,7 +91,7 @@ After commencement of classes, brief students on:
   - Personal issues (if required)
 
 ### 3.5 Result Analysis
-- Perform post-examination result analysis.
+- Perform post-examination result analysis for Mid-Term Examination within 15 calendar days from the last examination date.
 - Identify:
   - Slow learners  
   - Advanced learners  
@@ -110,22 +108,22 @@ After commencement of classes, brief students on:
 - Track:
   - Awards and recognitions  
   - Co-curricular and extracurricular activities  
-- Update records in:
-  - MyAmrita Portal  
-  - Advisor Notebook  
+- Update these activities and records in:
+  - MyAmrita Portal under Awards Portal
+  - Student Interaction Record (SIR)
 
 ### 3.8 Institutional & Club Activities
 - Encourage participation in:
-  - Department events  
+  - Department Events  
   - School/University events  
-  - Clubs and professional bodies  
+  - Technical Clubs and Professional Bodies  
 - Track student involvement.
 
 ### 3.9 Continuous Comprehensive Monitoring (CCM)
 - Conduct at least **2 CCM reviews per semester**.
 - Document performance, feedback, and action plans.
 
-## 4. Final Year Class Advisors – Additional Responsibilities
+## 4. Final Year Class Advisors – Additional Responsibilities (IV B.Tech and II M.Tech)
 
 Final-year students require focused career and academic completion support.
 
@@ -142,8 +140,9 @@ Final-year students require focused career and academic completion support.
 
 ### 4.3 Research & Publications
 - Encourage and track:
-  - Paper publications  
-  - Final year projects  
+  - Paper publications
+      - Record PTP ID, Paper Acceptance Copy, Plag Report, Presentation Certificate and Publication Link
+  - Final Year Projects  
   - Internship certifications  
 
 ### 4.4 Distinction & Awards Tracking
@@ -169,11 +168,4 @@ Final-year students require focused career and academic completion support.
 - Ensure records are:
   - Updated regularly  
   - Available for NBA/NAAC audit  
-
----
-
-## 6. Important Notes
-- All responsibilities must be carried out systematically and periodically.
-- Timely documentation and reporting are mandatory.
-- Non-compliance may be treated as administrative negligence.
 
