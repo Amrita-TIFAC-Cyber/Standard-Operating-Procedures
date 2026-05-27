@@ -8,8 +8,6 @@
 
 This Standard Operating Procedure (SOP) defines the guidelines for the effective conduct, evaluation, monitoring, and administration of Lab-Only and Lab-Integrated Theory Courses. The objective is to ensure uniformity, transparency, timely evaluation, and effective practical learning outcomes.
 
----
-
 ## 2. Scope
 
 This SOP applies to:
@@ -21,6 +19,22 @@ This SOP applies to:
 - Department Academic Affairs Committee (DAAC)
 - Students enrolled in laboratory courses
 
+## 3. RACI Matrix
+
+| Activity / Responsibility | Students | Course Faculty | Supporting Faculty | CCM/DAAC | SME |
+|---|---|---|---|---|---|
+| Finalize Experiment List | I | A/R | R | I | C |
+| Define Lab Objectives and Outcomes | I | A/R | R | I | C |
+| Prepare Lab Schedule | I | A/R | R | I | C |
+| Conduct Laboratory Sessions | I | A | R | I | I  |
+| Provide Lab Assistance and Monitoring | - | A | A | I | I |
+| Finalize Evaluation Rubrics | I | A/R | R | C | C |
+| Conduct Lab Evaluations | I | A | A | I | - |
+| Implement Round Robin Evaluation | - | A/R | R | I | - |
+| Maintain Assessment Records | I | A | A | I | - |
+| Communicate Evaluation Criteria | I | A/R | R | I | - |
+| Monitor Student Performance | R | A | R | I | - |
+###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
 
 ## 4. Standard Guidelines
 
@@ -28,7 +42,7 @@ This SOP applies to:
 
 1. Lab sessions shall be supported by additional faculty members apart from the course handling faculty.
 
-2. The supporting faculty allocation shall be based on the faculty matrix maintained by the department.
+2. The supporting faculty allocation shall be based on the Faculty Skill Matrix (FSM) maintained at the Department/Center.
 
 3. The recommended faculty-to-student ratio for laboratory courses shall preferably be:
    - **1 Faculty : 20–25 Students**
@@ -81,7 +95,6 @@ This SOP applies to:
 
 14. The evaluator rotation process shall be coordinated by the course faculty and supporting faculty.
 
-
 ### 4.6 Mid-Term and End-Term Lab Evaluations
 
 15. The number of experiments considered for Mid-Term and End-Term evaluations shall be finalized by the course faculty before the commencement of assessments.
@@ -112,8 +125,3 @@ The following records shall be maintained for every laboratory course:
 - Lab Manuals
 - Observation Records
 - Review and Feedback Records
-
-
-## 7. Effective Date
-
-This SOP shall come into effect from the date of approval by the department/academic committee.
