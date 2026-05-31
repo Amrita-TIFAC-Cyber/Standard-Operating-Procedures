@@ -4,3 +4,7 @@
 
 # Standard Operating Procedures - B.Tech Project
 
+>[!IMPORTANT]
+> **Program File #8, #9 and #11.** <br/> 
+> The Project Evaluation Rubrics, List of Quality Projects, Relavance to Real-world and Sustainability Development Goals shall be filed by the
+> Project Coordinator.
