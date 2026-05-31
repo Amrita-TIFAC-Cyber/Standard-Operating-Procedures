@@ -1,12 +1,10 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/amrita-tifac-cys-btech/.github-private/refs/heads/main/profile/assets/AVV_CYS_Logo.png?token=GHSAT0AAAAAADNCH2WNLX6IMGXM6OK7WVOO2QUPRYQ" alt ="Amrita TIFAC" width="700" />
+    <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures
+# Standard Operating Procedures - Cyber Readiness Index (CRI) Rubrics (CRR)
 
-## Cyber Readiness Index (CRI) Rubrics (CRR)
-
-### Table of Contents
+## Table of Contents
 
 -   Version History
 -   Introduction
@@ -18,7 +16,7 @@
 -   Recommendation Guideline
 -   Example Calculation
 
-### Version History
+## Version History
 
 | Date | Version | Change History | Author |
 |------|----------|----------------|--------|
@@ -27,7 +25,7 @@
 | 28 – June – 2025 | V1.5 | - Scoring Logic to CTFs<br>- Recommendation Guidelines<br>- Example Scoring | Mr. Ramaguru Radhakrishnan |   
 
 
-### Introduction
+## Introduction
 
 The **Cyber Readiness Rubrics (CRR)** is a structured evaluation framework developed to assess and quantify the cyber-readiness of students in terms of their academic performance and active engagement in
 co-curricular technical activities.
@@ -41,11 +39,11 @@ The CRR consists of four verticals:
 3.  Hackathon Participation and Performance
 4.  Competitive Coding Practice and Rating
 
-### 1. Academic Performance (CGPA)
+## 1. Academic Performance (CGPA)
 
 **Weightage: 25%**
 
-## Scoring Logic
+### Scoring Logic
 
 | CGPA Range   | Score (out of 10) |
 |--------------|-------------------|
@@ -62,11 +60,11 @@ The CRR consists of four verticals:
 CGPA_Score = Scaled value from table (0–10)
 ```
 
-### 2. CTF Participation and Performance
+## 2. CTF Participation and Performance
 
 **Weightage: 25%**
 
-#### Scoring Logic (Per CTF)
+### Scoring Logic (Per CTF)
 
 -   Participation only → **2 points**
 -   Solved at least 1 challenge → **3 points**
@@ -83,11 +81,11 @@ Where:
 Max_CTF_Score = 100 (can be adjusted based on context)
 ```
 
-### 3. Hackathon Participation and Outcomes
+## 3. Hackathon Participation and Outcomes
 
 **Weightage: 25%**
 
-#### Scoring Logic (Per Hackathon)
+### Scoring Logic (Per Hackathon)
 
 -   Participation only → **2 points**
 -   Intermediate Levels → **4 points**
@@ -105,20 +103,20 @@ Where:
 Max_Hackathon_Score = 100 (can be adjusted based on context)
 ```
 
-### 4. Competitive Coding (Rating-based)
+## 4. Competitive Coding (Rating-based)
 
 **Weightage: 25%**
 
-#### Platforms Considered
+### Platforms Considered
 
 -   Competitive Programming Track: **Codeforces**
 -   Regular Programming Track: **LeetCode**
 
-#### Scoring Logic
+### Scoring Logic
 
 Convert rating to 10-scale.
 
-#### Normalization Example (for Codeforces)
+### Normalization Example (for Codeforces)
 
 | Rating Range   | Score (out of 10) |
 |----------------|-------------------|
@@ -136,21 +134,19 @@ Convert rating to 10-scale.
 Competitive_Score = max(Normalized_Score_Across_Platforms)
 ```
 
-### Final Calculation
+## Final Calculation
 
     CRI = 0.25 × CGPA_Score
         + 0.25 × CTF_Score
         + 0.25 × Hackathon_Score
         + 0.25 × Competitive_Score
 
-### Recommendation Guideline
+## Recommendation Guideline
 
-A threshold will be decided by the committee chaired by the Director,
-TIFAC-CORE in Cyber Security based on the performance by students of a
+A threshold will be decided by the committee chaired by the Director, TIFAC-CORE in Cyber Security based on the performance by students of a
 given batch.
 
-
-### Example Calculation
+## Example Calculation
 
 | Student        | CGPA | CTFs | Hackathons | Comp. Coding | CRI   |
 |---------------|------|------|------------|--------------|-------|
