@@ -26,3 +26,7 @@
     -	Withdrawal and eligibility norms
 -	Collect and verify Offer letters
 -	Maintain department-level records of placed students, company details and compensation packages
+
+>[!IMPORTANT]
+> Program File #18
+> The Internship and Placement related Offer Letters and Completion Certificates shall be filed by the Placement Coordinator.
