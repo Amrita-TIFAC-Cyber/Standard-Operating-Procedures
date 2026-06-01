@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures - Evaluation Pattern
+# SOP for Evaluation Pattern
 
 | Reference Number | Amrita/CBE/TIFAC/2026-27/Course/Evaluation-01 |
 |:-----------------|:-----------------------------------------|
@@ -71,6 +71,9 @@ This SOP applies to:
 ##### TH - Theory Hours; LH - Lab Hours
 
 ## Common Evaluation Pattern
+
+>[!NOTE]
+> This Guidelines shall be followed inline with **Amrita/CBE/TIFAC/2026-27/Course/LabConduct-01** for Lab-Integrated Theory and Lab-Only Courses
 
 ### Table 2A: Internal Assessment Components
 
