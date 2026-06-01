@@ -2,7 +2,15 @@
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures - Class Advisors & Class Counsellors
+# SOP for Class Advisors & Class Counsellors
+
+| Reference Number | Amrita/CBE/TIFAC/2026-27/ClassAdmin/Advisor-01 |
+|:-----------------|:-----------------------------------------|
+| Dated            | 01 June 2026 |
+| Created By       | Mr. Ramaguru Radhakrishnan |
+| Reviewed By      | Prof. M. Sethumadhavan |
+| Approved By      | Prof. M. Sethumadhavan |
+| W.E.F            | 05 June 2026 |
 
 ## 1. Role of Class Advisor & Class Counsellor
 #### Class Advisor
