@@ -33,7 +33,7 @@ This SOP applies to:
 | Implement Round Robin Evaluation | - | A/R | R | I | - |
 | Maintain Assessment Records | I | A | A | I | - |
 | Communicate Evaluation Criteria | I | A/R | R | I | - |
-| Monitor Student Performance | R | A | R | I | - |
+| Monitor Student Performance | I | A | R | I | - |
 ###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
 
 ## 4. Standard Guidelines
@@ -78,7 +78,7 @@ This SOP applies to:
 
 ### 4.4 Evaluation Process
 
-10. Evaluation of regular laboratory exercises shall be completed within **two weeks** from the completion of the respective lab exercise.
+10. Evaluation of regular laboratory exercises shall be completed within **same day** from the completion of the respective lab exercise.
 
 11. Students shall be informed about:
    - Evaluation criteria
