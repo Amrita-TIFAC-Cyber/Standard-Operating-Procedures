@@ -12,7 +12,39 @@
 | Approved By      | Prof. M. Sethumadhavan |
 | W.E.F            | 05 June 2026 |
 
-## Guidelines 
+## 1. Purpose 
+The purpose of this policy is to establish a uniform framework for attendance recording, instructional hour requirements, continuous assessment, laboratory evaluation, and end-semester evaluation across all undergraduate and postgraduate courses offered. 
+
+## 2. Scope 
+This SOP applies to:
+ - All Courses
+ - Course Handling Faculty
+ - Supporting Faculty
+ - Subject Matter Experts (SMEs)
+ - Department Academic Affairs Committee (DAAC)
+ - Students Enrolled
+
+## 3. RACI Matrix
+
+# RACI Matrix – Evaluation and Attendance Policy
+
+| Activity                                            | Faculty | DAAC | Director | Exam Cell | Student |
+| --------------------------------------------------- | ------- | ---- | ---      | --------- | ------- |
+| Define and approve course evaluation plan           | R       | A    | I        | I         | I       |
+| Record and monitor attendance                       | R       | A    | I        | I         | I       |
+| Verify attendance eligibility (75%)                 | R       | A    | I        | I         | C       |
+| Conduct Continuous Assessments (CA)                 | R       | A    | I        | I         | C       |
+| Conduct Laboratory Evaluations (LE)                 | R       | A    | I        | I         | C       |
+| Publish Internal Assessment Marks                   | R       | A    | I        | I         | I       |
+| Schedule and conduct Missed-CA / Missed-LE          | R       | A    | I        | I         | C       |
+| Process medical absence requests                    | R       | A    | C        | I         | R       |
+| Conduct Mid-Term Examination (MTE)                  | R       | C    | I        | A         | C       |
+| Schedule and conduct End Semester Examination (ESE) | I       | I    | I        | A/R       | C       |
+| Maintain assessment records for audit               | R       | A    | I        | I         | I       |
+| Ensure policy compliance within department          | C       | R    | A        | I         | I       |
+###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
+
+## 4. Standard Guidelines
 
 1. Attendance shall be recorded only for the prescribed **Instructional Hours (IH)** based on Course Type (as recommended below).
 2. Examination, evaluation, viva voce, demonstrations, and other assessment activities shall not be counted towards attendance in MyAmrita but to be recorded in Physical for Auditing Purposes.
