@@ -15,7 +15,8 @@
 
 |       Description 	|   	            SOP Status  	    |                     Creator/Maintainer                    |         Link   | 
 |:----------------------|:-------------------------------------:|:----------------------------------------------------------|:--------------:|
-| [Evaluation Pattern Guidelines](eval-pattern) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu   | [Link](eval-pattern)       | 
+| [Evaluation Pattern Guidelines](course_admin/evaluation) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu   | [Link](course_admin/evaluation)       | 
+| [Lab Course Conduct Guidelines](course_admin/lab_conduct) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan   | [Link](course_admin/lab_conduct)       | 
 | [Question Paper Scrutiny](question-paper) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](question-paper)       | 
 | [Invigilation Allotment](invigil-allotment) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](invigil-allotment)       | 
 
