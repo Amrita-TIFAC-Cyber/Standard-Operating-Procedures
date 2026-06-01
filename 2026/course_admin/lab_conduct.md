@@ -4,6 +4,14 @@
 
 # Standard Operating Procedures - Conduct of Lab-Only and Lab-Integrated Courses
 
+| Reference Number | Amrita/CBE/TIFAC/2026-27/Course/LabConduct-01 |
+|:-----------------|:-----------------------------------------|
+| Dated            | 01 June 2026 |
+| Created By       | Mr. Ramaguru Radhakrishnan  |
+| Reviewed By      | Ms. Avadhani Bindu |
+| Approved By      | Prof. M. Sethumadhavan |
+| W.E.F            | 05 June 2026 |
+
 ## 1. Purpose
 
 This Standard Operating Procedure (SOP) defines the guidelines for the effective conduct, evaluation, monitoring, and administration of Lab-Only and Lab-Integrated Theory Courses. The objective is to ensure uniformity, transparency, timely evaluation, and effective practical learning outcomes.
@@ -87,7 +95,6 @@ This SOP applies to:
    - Assessment schedules
 
 12. Continuous monitoring and periodic feedback shall be provided to students during the laboratory sessions.
-
 
 ### 4.5 Round Robin Evaluation Method
 
