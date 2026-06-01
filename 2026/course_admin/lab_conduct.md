@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures - Conduct of Lab-Only and Lab-Integrated Courses
+# SOP for Conduct of Lab-Integrated & Lab-Only Courses
 
 | Reference Number | Amrita/CBE/TIFAC/2026-27/Course/LabConduct-01 |
 |:-----------------|:-----------------------------------------|
@@ -14,15 +14,15 @@
 
 ## 1. Purpose
 
-This Standard Operating Procedure (SOP) defines the guidelines for the effective conduct, evaluation, monitoring, and administration of Lab-Only and Lab-Integrated Theory Courses. The objective is to ensure uniformity, transparency, timely evaluation, and effective practical learning outcomes.
+This Standard Operating Procedure (SOP) defines the guidelines for the effective conduct, evaluation, monitoring, and administration of Lab-Integrated Theory & Lab-Only Courses. The objective is to ensure uniformity, transparency, timely evaluation, and effective practical learning outcomes.
 
 ## 2. Scope
 
 This SOP applies to:
 - Lab-Only Courses
 - Lab-Integrated Theory Courses
-- Course Handling Faculty
-- Supporting Faculty
+- Course Handling Faculty (CHF)
+- Supporting Faculty (SF)
 - Subject Matter Experts (SMEs)
 - Department Academic Affairs Committee (DAAC)
 - Students enrolled in laboratory courses
@@ -48,35 +48,37 @@ This SOP applies to:
 
 ### 4.1 Faculty Allocation
 
-1. Lab sessions shall be supported by additional faculty members apart from the course handling faculty.
+1. Lab Sessions shall be comprised of _Course Fandling Faculty_ and _Supporting Faculty_.
 
-2. The supporting faculty allocation shall be based on the Faculty Skill Matrix (FSM) maintained at the Department/Center.
+2. The SF allocation shall be based on the **Faculty Skill Matrix (FSM)** maintained at the Department/Center.
 
-3. The recommended faculty-to-student ratio for laboratory courses shall preferably be:
-   - **1 Faculty : 20–25 Students**
+3. The recommended FSR for laboratory courses shall preferably be:
+   - **1 Faculty : 20–22 Students**
 
 ### 4.2 Experiment Planning
 
-4. The complete list of experiments shall be finalized before the commencement of the course.
-
-5. Each experiment shall clearly specify:
+4. The complete **list of experiments** shall be approved during the CCM - 0 by the DAAC.
+   
+6. Each experiment shall clearly specify:
    - Objective / Aim
    - Lab Exercise Description
    - Expected Outcomes
    - Evaluation Components
    - Structure and Duration
 
-6. The laboratory schedule and experiment sequence shall be communicated to students at the beginning of the semester.
+7. The laboratory schedule and experiment sequence shall be communicated to students at the beginning of the semester.
 
 ### 4.3 Evaluation Rubrics
 
-7. The evaluation rubric for all laboratory courses shall be finalized before the start of evaluations.
+7. The Evaluation Pattern shall be as per the circular: **Amrita/CBE/TIFAC/2026-27/Course/Evaluation-01**
+  
+9. The Evaluation Rubrics for all Laboratory Evaluation shall be finalized before the start of evaluation.
 
-8. The rubric shall be approved by:
+10. The rubric shall be approved by:
    - Department Academic Affairs Committee (DAAC)
    - Subject Matter Expert (SME), wherever applicable or in special cases.
 
-9. Evaluation parameters may include:
+11. Evaluation parameters may include:
    - Preparation and Understanding
    - Experiment Execution
    - Output/Results
@@ -86,7 +88,7 @@ This SOP applies to:
 
 ### 4.4 Evaluation Process
 
-10. Evaluation of regular laboratory exercises shall be completed within **same day** from the completion of the respective lab exercise.
+10. Evaluation of Laboratory Exercises shall be completed **same day** the evaluation score shall be communicated immediately.
 
 11. Students shall be informed about:
    - Evaluation criteria
@@ -102,16 +104,15 @@ This SOP applies to:
 
 14. The evaluator rotation process shall be coordinated by the course faculty and supporting faculty.
 
-### 4.6 Mid-Term and End-Term Lab Evaluations
+### 4.6 Mid-Term and End Semester Lab Evaluations
 
-15. The number of experiments considered for Mid-Term and End-Term evaluations shall be finalized by the course faculty before the commencement of assessments.
+15. The number of experiments considered for Mid-Term and End Semester Examinations shall be finalized by the course faculty before the commencement of assessments.
 
 16. A recommended structure may include:
    - First set of experiments for Mid-Term Evaluation
    - Remaining experiments for End-Term Evaluation
 
 17. Any deviation from the approved structure shall require department approval.
-
 
 ## 5. Compliance
 
@@ -132,3 +133,7 @@ The following records shall be maintained for every laboratory course:
 - Lab Manuals
 - Observation Records
 - Review and Feedback Records
+
+> [!IMPORTANT]
+> Program File #14 <br/>
+> These shall be recorded under the Course File and Uploaded to corresponding Program Files.
