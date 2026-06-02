@@ -2,7 +2,15 @@
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures - GitHub Usage
+# SOP for GitHub Usage for B.Tech Project and M.Tech Dissertation
+
+| Reference Number | Amrita/CBE/TIFAC/2026-27/ProjectAdmin/GitHub-01 |
+|:-----------------|:-----------------------------------------|
+| Dated            | 01 June 2026 |
+| Created By       | Mr. Ramaguru Radhakrishnan |
+| Reviewed By      | Prof. M. Sethumadhavan |
+| Approved By      | Prof. M. Sethumadhavan |
+| W.E.F            | 05 June 2026 |
 
 ## 1. Purpose
 This Standard Operating Procedure (SOP) defines the guidelines for the proper usage and maintenance of GitHub repositories for all B.Tech Projects and M.Tech Dissertations under TIFAC-CORE in Cyber Security. The objective is to ensure systematic project management, version control, documentation, collaboration, and secure storage of project deliverables.
