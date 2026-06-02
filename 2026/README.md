@@ -11,13 +11,13 @@
 |:----------------------|:-------------------------------------:|:----------------------------------------------------------|:--------------:|
 |  [Attendance Policy](attendance)    |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan & Ms. Avadhani Bindu   | [Link](attendance)    | 
 
-### 1.2 Examination
+### 1.2 Course Administration
 
 |       Description 	|   	            SOP Status  	    |                     Creator/Maintainer                    |         Link   | 
 |:----------------------|:-------------------------------------:|:----------------------------------------------------------|:--------------:|
 | [Evaluation Pattern Guidelines](course_admin/evaluation) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu   | [Link](course_admin/evaluation)       | 
 | [Lab Course Conduct Guidelines](course_admin/lab_conduct) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan   | [Link](course_admin/lab_conduct)       | 
-| [Question Paper Scrutiny](course_admin/question-paper) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](course_admin/question-paper)       | 
+| [Question Paper Scrutiny](course_admin/question_paper) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](course_admin/question_paper)       | 
 | [Invigilation Allotment](invigil-allotment) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](invigil-allotment)       | 
 
 ### 1.3 Project Management
