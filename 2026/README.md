@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures ![](https://img.shields.io/badge/-Live-darkgreen) 
+# Standard Operating Procedures (SOP) ![](https://img.shields.io/badge/-Live-darkgreen) 
 
 ## 1. Academic 
 ### 1.1 Teaching & Learning
@@ -17,15 +17,16 @@
 |:----------------------|:-------------------------------------:|:----------------------------------------------------------|:--------------:|
 | [Evaluation Pattern Guidelines](course_admin/evaluation) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu   | [Link](course_admin/evaluation)       | 
 | [Lab Course Conduct Guidelines](course_admin/lab_conduct) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan   | [Link](course_admin/lab_conduct)       | 
-| [Question Paper Scrutiny](question-paper) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](question-paper)       | 
+| [Question Paper Scrutiny](course_admin/question-paper) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](course_admin/question-paper)       | 
 | [Invigilation Allotment](invigil-allotment) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Dr. Aravind Vishnu S S  | [Link](invigil-allotment)       | 
 
 ### 1.3 Project Management
 
 |       Description 	|   	            SOP Status  	    |                     Creator/Maintainer                    |         Link   | 
 |:----------------------|:-------------------------------------:|:----------------------------------------------------------|:--------------:|
-| [B.Tech Project Management](ug-project) |  ![](https://img.shields.io/badge/-In_Progress-orange) | Mr. Sreejith K  | [Link](ug-project)       |
-| [M.Tech Dissertation Management](pg-dissertation) |  ![](https://img.shields.io/badge/-In_Progress-orange) | Mr. Anand R Nair & Dr. Lakshmy K V | [Link](pg-dissertation)  |
+| [GitHub Usage Guidelines](project_dissertation/GitHub_Usage) | ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Ramaguru Radhakrishnan | [Link](project_dissertation/GitHub_Usage)       |
+| [B.Tech Project Management](project_dissertation/UG) |  ![](https://img.shields.io/badge/-In_Progress-orange) | Mr. Sreejith K  | [Link](project_dissertation/UG)       |
+| [M.Tech Dissertation Management](project_dissertation/PG) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Mr. Anand R Nair | [Link](project_dissertation/PG)  |
 
 ### 1.4 Research 
 
