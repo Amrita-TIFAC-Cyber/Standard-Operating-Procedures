@@ -2,7 +2,15 @@
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber/CYS-RAM/refs/heads/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
-# Standard Operating Procedures – Hackathon Participation Guidelines
+# SOP for Hackathon Participation
+
+| Reference Number | Amrita/CBE/TIFAC/2026-27/CoC/Hackathon-01 |
+|:-----------------|:-----------------------------------------|
+| Dated            | 01 June 2026 |
+| Created By       | Mr. Ramaguru Radhakrishnan and Dr. Rohini M |
+| Reviewed By      | Prof. M. Sethumadhavan |
+| Approved By      | Prof. M. Sethumadhavan |
+| W.E.F            | 05 June 2026 |
 
 ## 1. Objective
 To streamline and standardize the process for student participation in Hackathons (codeathon, project presentation, ideathon etc) , ensuring academic compliance, quality control, and proper documentation.
@@ -132,3 +140,6 @@ After participation, the **Team Leader** must submit the following:
 
 **Department Hackathon Committee**  
 *Ensuring Quality Participation & Proper Recognition*
+
+> [!IMPORTANT]
+> Program File #20 and #23
