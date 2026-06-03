@@ -32,7 +32,8 @@
 
 |       Description 	|   	            SOP Status  	    |                     Creator/Maintainer                    |         Link   | 
 |:----------------------|:-------------------------------------:|:----------------------------------------------------------|:--------------:|
-| [Publication Policy](publication) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu  | [Link](publication)       | 
+| [Publication Policy - Faculty](research/publication_f) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu  | [Link](research/publication_f)       | 
+| [Publication Policy - Students](research/publication_s) |  ![](https://img.shields.io/badge/-Active-darkgreen) | Ms. Avadhani Bindu  | [Link](research/publication_s)       | 
       
 ### 1.5 Student Performance & Readiness
 
