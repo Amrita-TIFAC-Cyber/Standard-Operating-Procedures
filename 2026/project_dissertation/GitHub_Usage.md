@@ -34,6 +34,7 @@ This SOP applies to:
 | Conduct Repository Review Before Evaluation | C | A | I/C | - |
 | Approve Readiness for Project Review | I | R | A | I |
 | Make Repository Public After Approval | I | C | A | R |
+
 ###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
 
 ## 4. Standard Guidelines
