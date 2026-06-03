@@ -42,6 +42,7 @@ This SOP applies to:
 | Maintain Assessment Records | I | A | A | I | - |
 | Communicate Evaluation Criteria | I | A/R | R | I | - |
 | Monitor Student Performance | I | A | R | I | - |
+
 ###### R - Responsible; A - Accountable; C - Consulted; I - Informed 
 
 ## 4. Standard Guidelines
